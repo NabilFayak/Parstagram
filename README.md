@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media0.giphy.com/media/TB65XT3fWbneOF16ap/giphy.gif?cid=790b76119c8708a43a7462c433688077908bf5ebb5846cb9&rid=giphy.gif&ct=g' width='' alt='Video Walkthrough' />
+<img src='https://media0.giphy.com/media/TB65XT3fWbneOF16ap/giphy.gif?cid=790b76119c8708a43a7462c433688077908bf5ebb5846cb9&rid=giphy.gif' width='' alt='Video Walkthrough' />
 
 # Parstagram - Part I
 
