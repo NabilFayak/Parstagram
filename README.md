@@ -22,9 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<div style="width:100%;height:0;padding-bottom:218%;position:relative;"><iframe src="https://giphy.com/embed/TB65XT3fWbneOF16ap" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/TB65XT3fWbneOF16ap">via GIPHY</a></p>
-
-<img src='file:///private/var/folders/40/r8qht9j13093d5dn5z5j4dqr0000gn/T/d8afc2a38ea24e99a613d03238054a31/Kapture%202021-08-23%20at%2010.08.41.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media0.giphy.com/media/TB65XT3fWbneOF16ap/giphy.gif?cid=790b76119c8708a43a7462c433688077908bf5ebb5846cb9&rid=giphy.gif&ct=g' width='' alt='Video Walkthrough' />
 
 # Parstagram - Part I
 
