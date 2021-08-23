@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/xFg45k3nvw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://hnet.com/video-to-gif/viewimage/20210823-02-U7pL4vM3i2QvhgJQ-yOSiQ4-HNET' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Parstagram - Part I
 
